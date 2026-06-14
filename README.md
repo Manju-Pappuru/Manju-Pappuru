@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
+![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 <h1 align="center">Hi 👋, I'm Manju....</h1>
 <h3 align="center">A passionate Full-Stack Developer and Computer Science Engineering student from India</h3>
 <img align="right" width="400" src="https://media.tenor.com/hR312hTG5T0AAAAi/mythikore-anime-girl.gif">
